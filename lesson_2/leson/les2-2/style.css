@@ -1,0 +1,13 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Jacquarda+Bastarda+9&family=Oswald:wght@200..700&display=swap');
+.jacquarda-bastarda-9-regular {
+    font-family: "Jacquarda Bastarda 9", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.cookie-regular {
+    font-family: "Cookie", cursive;
+    font-weight: 700;
+    font-style: normal;
+}

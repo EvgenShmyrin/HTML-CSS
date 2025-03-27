@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        * {
+            margin: 0;
+        }
+
+        body {
+            height: 100vh;
+        }
+
+        .box {
+            width: 200px;
+            height: 200px;
+            background-color: lightblue;
+        }
+
+        .red {
+            background-color: red;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column-reverse;
+        }
+        .red img{
+            width: 50%;
+        }
+        /*.red p{*/
+        /*    text-align: center;*/
+        /*}*/
+
+        .yellow {
+            background-color: yellow;
+        }
+
+        .green {
+            background-color: green;
+        }
+
+        .flex {
+            height: 100%;
+            background-color: cornsilk;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            align-items: center;
+            flex-direction: column-reverse;
+        }
+    </style>
+</head>
+<body>
+<div class="flex">
+    <div class="box red">
+        <p>Lorem ipsum dolor sit amet.</p>
+        <img src="https://pngimg.com/uploads/apple/apple_PNG12506.png" alt="apple">
+    </div>
+
+    <div class="box yellow"></div>
+    <div class="box green"></div>
+</div>
+</body>
+</html>
