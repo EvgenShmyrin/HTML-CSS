@@ -1,0 +1,23 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Jacquarda+Bastarda+9&family=Oswald:wght@200..700&display=swap');*/
+/*.jacquarda-bastarda-9-regular {*/
+/*    font-family: "Jacquarda Bastarda 9", serif;*/
+/*    font-weight: 400;*/
+/*    font-style: normal;*/
+/*}*/
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Fjalla+One&family=Indie+Flower&family=Rubik+Pixels&family=Sedgwick+Ave+Display&display=swap');
+.flex{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.text{
+    width: 200px;
+    height: 200px;
+    background-color: rgba(239, 198, 135, 0.84);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+.text p{
+    font-weight: bold;
+}
