@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+/*-----------------------------------------------header----------------------------------*/
+.active-link{
+    color: #1d401d;
+}
+header{
+    height: 10vh;
+    background: #fff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: "Orbitron", sans-serif;
+
+}
+div{
+    text-align: center;
+}
+header div{
+    font-size: 16px;
+}
+header nav ul{
+    display: flex;
+    gap: 20px;
+}
+header nav ul a{
+    color: grey;
+    font-size: 20px;
+}
+/*------------------------------------MAIN--------------------------------------------*/
+main{
+    height: 90vh;
+    background-image: url("https://media.istockphoto.com/id/2180756284/uk/%D1%84%D0%BE%D1%82%D0%BE/mountains-and-forests.jpg?s=612x612&w=0&k=20&c=CxNy58ZYz8XMG1c_e8jFZm7rjT7SnJO2SR-L-T9yWBs=");
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Orbitron", sans-serif;
+    padding-top: 50px;
+}
+main p{
+    font-size: 20px;
+}
+main h1{
+    font-size: 100px;
+    letter-spacing: 30px;
+}
+main button{
+    width: 160px;
+    height: 40px;
+    border: none;
+    color: white;
+    background: black;
+    margin-top: 40px;
+    transition: 0.3s;
+}
+main button:hover{
+    transform: scale(1.1);
+    transition: 1s;
+    color: #5d8e5d;
+}
+main h3{
+    margin-top: 20px;
+}
