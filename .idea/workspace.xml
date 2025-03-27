@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7cdfe044-c4c7-48ce-9aa7-3ba57839b1df" name="Changes" comment="Закінчення прослуховування лекції №2">
-      <change afterPath="$PROJECT_DIR$/lesson_2/home_work/hw2_1/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_2/home_work/hw2_1/task_2-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_2/leson/les2-1/style.css" afterDir="false" />
+    <list default="true" id="7cdfe044-c4c7-48ce-9aa7-3ba57839b1df" name="Changes" comment="Закінчив вправу №2.1 по дз">
+      <change afterPath="$PROJECT_DIR$/lesson_2/home_work/hw2_2/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_2/home_work/hw2_2/task_2-2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +80,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "javascript.nodejs.core.library.configured.version": "22.14.0",
     "javascript.nodejs.core.library.typings.version": "22.13.11",
-    "last_opened_file_path": "C:/Users/User/WebstormProjects/HTML-CSS/lesson_2/home_work/hw2_1",
+    "last_opened_file_path": "C:/Users/User/WebstormProjects/HTML-CSS/lesson_2/home_work",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -96,11 +95,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_2\home_work" />
       <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_2\home_work\hw2_1" />
       <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_2\leson\les2-1" />
       <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_2\leson" />
       <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_2\leson\les2-3" />
-      <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_2\leson\les2-2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_2\leson\les2-3" />
@@ -131,7 +130,7 @@
       <workItem from="1742882417080" duration="7976000" />
       <workItem from="1742891239299" duration="13480000" />
       <workItem from="1742969181422" duration="15944000" />
-      <workItem from="1743053839554" duration="6412000" />
+      <workItem from="1743053839554" duration="8233000" />
     </task>
     <task id="LOCAL-00001" summary="Зроблено завдання1 урока1">
       <option name="closed" value="true" />
@@ -221,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743054029306</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Закінчив вправу №2.1 по дз">
+      <option name="closed" value="true" />
+      <created>1743060543359</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1743060543359</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,6 +257,7 @@
     <MESSAGE value="Виконання зауважень" />
     <MESSAGE value="Виконання зауважень по всім вправам" />
     <MESSAGE value="Закінчення прослуховування лекції №2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Закінчення прослуховування лекції №2" />
+    <MESSAGE value="Закінчив вправу №2.1 по дз" />
+    <option name="LAST_COMMIT_MESSAGE" value="Закінчив вправу №2.1 по дз" />
   </component>
 </project>
