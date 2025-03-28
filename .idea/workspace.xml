@@ -4,9 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7cdfe044-c4c7-48ce-9aa7-3ba57839b1df" name="Changes" comment="Закінчив урок №3-3">
+    <list default="true" id="7cdfe044-c4c7-48ce-9aa7-3ba57839b1df" name="Changes" comment="Виправив помилку в завданні, №2-4">
+      <change afterPath="$PROJECT_DIR$/lesson_3/home-work/hw3-4/About.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_3/home-work/hw3-4/Service.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_3/home-work/hw3-4/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_3/home-work/hw3-4/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_3/home-work/hw3-4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_3/home-work/hw3-4/location.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_3/home-work/hw3-4/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_3/lesson/Allan/About.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_3/lesson/Allan/Service.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_3/lesson/Allan/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_3/lesson/Allan/location.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_3/lesson/les3-4/lesson3-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_3/lesson/les3-4/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2/home_work/hw2_4/task_2-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2/home_work/hw2_4/task_2-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_3/lesson/Allan/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_3/lesson/Allan/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_3/lesson/Allan/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_3/lesson/Allan/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_3/lesson/Allan/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_3/lesson/Allan/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_3/lesson/les3-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_3/lesson/les3-1/les3-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_3/lesson/les3-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_3/lesson/les3-2/les3-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_3/lesson/les3-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_3/lesson/les3-3/les3-3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +35,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -58,6 +76,7 @@
     "JavaScript Debug.1.html.executor": "Run",
     "JavaScript Debug.3.html.executor": "Run",
     "JavaScript Debug.5.html.executor": "Run",
+    "JavaScript Debug.About.html.executor": "Run",
     "JavaScript Debug.Exercise1.html.executor": "Run",
     "JavaScript Debug.Exercise2.html.executor": "Run",
     "JavaScript Debug.Exercive3.html.executor": "Run",
@@ -87,7 +106,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "javascript.nodejs.core.library.configured.version": "22.14.0",
     "javascript.nodejs.core.library.typings.version": "22.13.11",
-    "last_opened_file_path": "C:/Users/User/WebstormProjects/HTML-CSS/lesson_3/lesson/Allan",
+    "last_opened_file_path": "C:/Users/User/WebstormProjects/HTML-CSS/lesson_3/lesson",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -102,18 +121,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_3\lesson\Allan" />
       <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_3\lesson" />
+      <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_3\home-work" />
+      <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_3\lesson\Allan" />
       <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_2\home_work" />
       <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_2\home_work\hw2_1" />
-      <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_2\leson\les2-1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_3\lesson\les3-3" />
+      <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_3\lesson\les3-2" />
+      <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_3\lesson\les3-1" />
+      <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_3\home-work" />
       <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_2\leson\les2-3" />
-      <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_2\leson\les2-2" />
-      <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_2\leson\les2-1" />
-      <recent name="C:\Users\User\WebstormProjects\HTML-CSS" />
-      <recent name="C:\Users\User\WebstormProjects\HTML-CSS\Lesson1\hw1_5" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -139,7 +158,7 @@
       <workItem from="1742969181422" duration="15944000" />
       <workItem from="1743053839554" duration="18781000" />
       <workItem from="1743079062470" duration="12608000" />
-      <workItem from="1743146828407" duration="300000" />
+      <workItem from="1743146828407" duration="7632000" />
     </task>
     <task id="LOCAL-00001" summary="Зроблено завдання1 урока1">
       <option name="closed" value="true" />
@@ -277,7 +296,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743093377977</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Виправив помилку в завданні, №2-4">
+      <option name="closed" value="true" />
+      <created>1743147234801</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1743147234801</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -311,6 +338,7 @@
     <MESSAGE value="Закінчив вправу №2.3 по дз" />
     <MESSAGE value="Закінчив вправу №2.4 по дз" />
     <MESSAGE value="Закінчив урок №3-3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Закінчив урок №3-3" />
+    <MESSAGE value="Виправив помилку в завданні, №2-4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Виправив помилку в завданні, №2-4" />
   </component>
 </project>
