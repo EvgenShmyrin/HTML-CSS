@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7cdfe044-c4c7-48ce-9aa7-3ba57839b1df" name="Changes" comment="Закінчив дз №3-1">
-      <change afterPath="$PROJECT_DIR$/lesson_3/home-work/hw3-2/les3-2.html" afterDir="false" />
+    <list default="true" id="7cdfe044-c4c7-48ce-9aa7-3ba57839b1df" name="Changes" comment="Закінчив дз №3-2">
+      <change afterPath="$PROJECT_DIR$/lesson_3/home-work/hw3-3/hw3-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_3/home-work/hw3-3/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_3/home-work/hw3-1/les3-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_3/home-work/hw3-1/hw3-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_3/home-work/hw3-2/les3-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_3/home-work/hw3-2/hw3-2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +20,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -68,6 +71,7 @@
     "JavaScript Debug.index.html.executor": "Run",
     "JavaScript Debug.les3-1.html.executor": "Run",
     "JavaScript Debug.les3-2.html.executor": "Run",
+    "JavaScript Debug.les3-3.html.executor": "Run",
     "JavaScript Debug.lesson2-1.html.executor": "Run",
     "JavaScript Debug.lesson2-2.html.executor": "Run",
     "JavaScript Debug.lesson2-3.html.executor": "Run",
@@ -140,7 +144,7 @@
       <workItem from="1742969181422" duration="15944000" />
       <workItem from="1743053839554" duration="18781000" />
       <workItem from="1743079062470" duration="12608000" />
-      <workItem from="1743146828407" duration="12464000" />
+      <workItem from="1743146828407" duration="15377000" />
     </task>
     <task id="LOCAL-00001" summary="Зроблено завдання1 урока1">
       <option name="closed" value="true" />
@@ -302,7 +306,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743168222213</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Закінчив дз №3-2">
+      <option name="closed" value="true" />
+      <created>1743173362119</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1743173362119</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -339,6 +351,7 @@
     <MESSAGE value="Виправив помилку в завданні, №2-4" />
     <MESSAGE value="Закінчив урок №3-4" />
     <MESSAGE value="Закінчив дз №3-1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Закінчив дз №3-1" />
+    <MESSAGE value="Закінчив дз №3-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Закінчив дз №3-2" />
   </component>
 </project>
