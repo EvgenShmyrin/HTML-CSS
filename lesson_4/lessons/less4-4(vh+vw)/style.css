@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+}
+header, footer{
+    height: 26vh;
+    background: grey;
+}
+main{
+    height: 56vh;
+    background: lightgray;
+}

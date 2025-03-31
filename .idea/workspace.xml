@@ -4,8 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7cdfe044-c4c7-48ce-9aa7-3ba57839b1df" name="Changes" comment="Закінчив дз №3-3">
+    <list default="true" id="7cdfe044-c4c7-48ce-9aa7-3ba57839b1df" name="Changes" comment="Виправлення в дз №3-1, 3-2">
+      <change afterPath="$PROJECT_DIR$/lesson_4/home_works/hw4-1/hw4-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_4/home_works/hw4-1/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_4/home_works/hw4-2/hw4-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_4/home_works/hw4-2/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_4/home_works/hw4-3/hw4-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_4/home_works/hw4-3/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_4/home_works/hw4-4/hw4-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_4/home_works/hw4-4/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_4/lessons/less4-1(video_audio)/less4_1(video,audio).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_4/lessons/less4-2(Figma)/less4-2(Figma).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_4/lessons/less4-2(Figma)/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_4/lessons/less4-3(website layout/img/Hero3D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_4/lessons/less4-3(website layout/less4-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_4/lessons/less4-3(website layout/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_4/lessons/less4-4(vh+vw)/less4-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_4/lessons/less4-4(vh+vw)/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson1/hw1-1/task_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/hw1-1/task_1(Terminator).html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson1/hw1-3/task_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/hw1-3/task_3(psychology of colors).html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson1/hw1_4/task_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/hw1_4/task_4(cards).html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson1/hw1_5/task_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/hw1_5/task_5(Batmen).html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2/lesson/les2-1/lesson2-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2/lesson/les2-1/lesson2-1(class_id).html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2/lesson/les2-2/lesson2-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2/lesson/les2-2/lesson2-2(font).html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2/lesson/les2-3/lesson2-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2/lesson/les2-3/lesson2-3(transition_border).html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_3/home-work/hw3-4/About.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_3/home-work/hw3-4/About.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,14 +88,21 @@
     "JavaScript Debug.Exercive4.html.executor": "Run",
     "JavaScript Debug.Lesson1.html.executor": "Run",
     "JavaScript Debug.contact.html.executor": "Run",
+    "JavaScript Debug.hw3-1.html.executor": "Run",
+    "JavaScript Debug.hw3-2.html.executor": "Run",
     "JavaScript Debug.index.html.executor": "Run",
     "JavaScript Debug.les3-1.html.executor": "Run",
     "JavaScript Debug.les3-2.html.executor": "Run",
     "JavaScript Debug.les3-3.html.executor": "Run",
+    "JavaScript Debug.less3-4(video,audio).html.executor": "Run",
+    "JavaScript Debug.less4-2(Figma).html.executor": "Run",
+    "JavaScript Debug.less4-4.html.executor": "Run",
     "JavaScript Debug.lesson2-1.html.executor": "Run",
     "JavaScript Debug.lesson2-2.html.executor": "Run",
+    "JavaScript Debug.lesson2-3(transition_border).html.executor": "Run",
     "JavaScript Debug.lesson2-3.html.executor": "Run",
     "JavaScript Debug.lesson2-4.html.executor": "Run",
+    "JavaScript Debug.lesson3-4.html.executor": "Run",
     "JavaScript Debug.task_1.html.executor": "Run",
     "JavaScript Debug.task_2-1.html.executor": "Run",
     "JavaScript Debug.task_2-2.html.executor": "Run",
@@ -83,12 +114,11 @@
     "JavaScript Debug.task_5.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "javascript.nodejs.core.library.configured.version": "22.14.0",
     "javascript.nodejs.core.library.typings.version": "22.13.11",
-    "last_opened_file_path": "C:/Users/User/WebstormProjects/HTML-CSS/lesson_3/lesson",
+    "last_opened_file_path": "C:/Users/User/WebstormProjects/HTML-CSS/lesson_4/home_works",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -96,25 +126,25 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_interpreter_path": "C:/Users/User/AppData/Roaming/JetBrains/WebStorm2024.3/node/versions/22.14.0/node",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.selected.configurable": "editing.templates",
     "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.3.5\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_4\home_works" />
+      <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_4\lessons" />
+      <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_3\home-work\hw3-1" />
+      <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_3\home-work\hw3-2" />
       <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_3\lesson" />
-      <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_3\home-work" />
-      <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_3\lesson\Allan" />
-      <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_2\home_work" />
-      <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_2\home_work\hw2_1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_4\lessons\less4-3(website layout\img" />
+      <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_4\lessons\less4-1(video_audio)" />
       <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_3\lesson\les3-3" />
       <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_3\lesson\les3-2" />
       <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_3\lesson\les3-1" />
-      <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_3\home-work" />
-      <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_2\leson\les2-3" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -140,7 +170,11 @@
       <workItem from="1742969181422" duration="15944000" />
       <workItem from="1743053839554" duration="18781000" />
       <workItem from="1743079062470" duration="12608000" />
-      <workItem from="1743146828407" duration="16599000" />
+      <workItem from="1743146828407" duration="18201000" />
+      <workItem from="1743251672754" duration="3220000" />
+      <workItem from="1743317805814" duration="1495000" />
+      <workItem from="1743319421329" duration="595000" />
+      <workItem from="1743399251385" duration="16153000" />
     </task>
     <task id="LOCAL-00001" summary="Зроблено завдання1 урока1">
       <option name="closed" value="true" />
@@ -318,7 +352,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743176336232</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Виправлення в дз №3-1, 3-2">
+      <option name="closed" value="true" />
+      <created>1743178156698</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1743178156698</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -357,6 +399,7 @@
     <MESSAGE value="Закінчив дз №3-1" />
     <MESSAGE value="Закінчив дз №3-2" />
     <MESSAGE value="Закінчив дз №3-3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Закінчив дз №3-3" />
+    <MESSAGE value="Виправлення в дз №3-1, 3-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Виправлення в дз №3-1, 3-2" />
   </component>
 </project>
