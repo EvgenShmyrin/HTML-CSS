@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7cdfe044-c4c7-48ce-9aa7-3ba57839b1df" name="Changes" comment="Рішення для д/з №4-2">
+    <list default="true" id="7cdfe044-c4c7-48ce-9aa7-3ba57839b1df" name="Changes" comment="Виправлення рішення для д/з №4-2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_4/home_works/hw4-2/hw4-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_4/home_works/hw4-2/hw4-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_4/home_works/hw4-2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_4/home_works/hw4-2/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_4/home_works/hw4-3/hw4-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_4/home_works/hw4-3/hw4-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_4/home_works/hw4-3/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_4/home_works/hw4-3/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,65 +52,66 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.1.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.3.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.5.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.About.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Exercise1.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Exercise2.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Exercive3.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Exercive4.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Lesson1.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.contact.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.hw3-1.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.hw3-2.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.hw4-1.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.hw4-2.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.les3-1.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.les3-2.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.les3-3.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.less3-4(video,audio).html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.less4-2(Figma).html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.less4-4.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.lesson2-1.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.lesson2-2.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.lesson2-3(transition_border).html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.lesson2-3.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.lesson2-4.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.lesson3-4.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.task_1.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.task_2-1.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.task_2-2.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.task_2-3.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.task_2-4.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.task_2.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.task_3.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.task_4.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.task_5.html.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;22.14.0&quot;,
-    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;22.13.11&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/WebstormProjects/HTML-CSS/lesson_4/home_works&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;C:/Users/User/AppData/Roaming/JetBrains/WebStorm2024.3/node/versions/22.14.0/node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.3.5\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.1.html.executor": "Run",
+    "JavaScript Debug.3.html.executor": "Run",
+    "JavaScript Debug.5.html.executor": "Run",
+    "JavaScript Debug.About.html.executor": "Run",
+    "JavaScript Debug.Exercise1.html.executor": "Run",
+    "JavaScript Debug.Exercise2.html.executor": "Run",
+    "JavaScript Debug.Exercive3.html.executor": "Run",
+    "JavaScript Debug.Exercive4.html.executor": "Run",
+    "JavaScript Debug.Lesson1.html.executor": "Run",
+    "JavaScript Debug.contact.html.executor": "Run",
+    "JavaScript Debug.hw3-1.html.executor": "Run",
+    "JavaScript Debug.hw3-2.html.executor": "Run",
+    "JavaScript Debug.hw4-1.html.executor": "Run",
+    "JavaScript Debug.hw4-2.html.executor": "Run",
+    "JavaScript Debug.hw4-3.html.executor": "Run",
+    "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.les3-1.html.executor": "Run",
+    "JavaScript Debug.les3-2.html.executor": "Run",
+    "JavaScript Debug.les3-3.html.executor": "Run",
+    "JavaScript Debug.less3-4(video,audio).html.executor": "Run",
+    "JavaScript Debug.less4-2(Figma).html.executor": "Run",
+    "JavaScript Debug.less4-4.html.executor": "Run",
+    "JavaScript Debug.lesson2-1.html.executor": "Run",
+    "JavaScript Debug.lesson2-2.html.executor": "Run",
+    "JavaScript Debug.lesson2-3(transition_border).html.executor": "Run",
+    "JavaScript Debug.lesson2-3.html.executor": "Run",
+    "JavaScript Debug.lesson2-4.html.executor": "Run",
+    "JavaScript Debug.lesson3-4.html.executor": "Run",
+    "JavaScript Debug.task_1.html.executor": "Run",
+    "JavaScript Debug.task_2-1.html.executor": "Run",
+    "JavaScript Debug.task_2-2.html.executor": "Run",
+    "JavaScript Debug.task_2-3.html.executor": "Run",
+    "JavaScript Debug.task_2-4.html.executor": "Run",
+    "JavaScript Debug.task_2.html.executor": "Run",
+    "JavaScript Debug.task_3.html.executor": "Run",
+    "JavaScript Debug.task_4.html.executor": "Run",
+    "JavaScript Debug.task_5.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "javascript.nodejs.core.library.configured.version": "22.14.0",
+    "javascript.nodejs.core.library.typings.version": "22.13.11",
+    "last_opened_file_path": "C:/Users/User/WebstormProjects/HTML-CSS/lesson_4/home_works",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "C:/Users/User/AppData/Roaming/JetBrains/WebStorm2024.3/node/versions/22.14.0/node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editing.templates",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.3.5\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\User\WebstormProjects\HTML-CSS\lesson_4\home_works" />
@@ -156,7 +157,7 @@
       <workItem from="1743319421329" duration="595000" />
       <workItem from="1743399251385" duration="16686000" />
       <workItem from="1743428236092" duration="8038000" />
-      <workItem from="1743490404618" duration="1035000" />
+      <workItem from="1743490404618" duration="4390000" />
     </task>
     <task id="LOCAL-00001" summary="Зроблено завдання1 урока1">
       <option name="closed" value="true" />
@@ -358,7 +359,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743436303791</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Виправлення рішення для д/з №4-2">
+      <option name="closed" value="true" />
+      <created>1743491741365</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1743491741365</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -400,6 +409,7 @@
     <MESSAGE value="Виправлення в дз №3-1, 3-2" />
     <MESSAGE value="Рішення для д/з №4-1" />
     <MESSAGE value="Рішення для д/з №4-2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Рішення для д/з №4-2" />
+    <MESSAGE value="Виправлення рішення для д/з №4-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Виправлення рішення для д/з №4-2" />
   </component>
 </project>
