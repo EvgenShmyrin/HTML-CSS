@@ -1,39 +1,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
-
 * {
     margin: 0;
-    padding: 0;
-    font-family: 'Inter', sans-serif;
 }
-body {
-    width: 100vw;
-    height: 100vh;
-    font-size: 45px;
-    font-family: 'Inter', sans-serif;
-}
-header, footer {
+main, header, footer, section {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 20vh;
-    color: #000000;
-    font-weight: 400;
     font-size: 45px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
 }
 header {
-       background: #8D8484;
+    background: #8D8484;
+    height: 20vh;
 }
 footer {
     background: #BDBDBD;
+    height: 20vh;
 }
-main, section{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 60vh;
+section{
     color: white;
-    font-weight: 400;
-    font-size: 45px;
 }
 .section1{
     background: #776969;
