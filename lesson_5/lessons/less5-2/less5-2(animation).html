@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Animation</title>
+    <style>
+        .animation{
+            height: 200px;
+            width: 200px;
+            background-color: pink;
+            margin: 50px auto;
+            animation: lorem 5s linear alternate infinite;
+        }
+        @keyframes lorem {
+            from {
+                transform: scale(1.5);
+            }
+            40%{
+                border-radius: 50%;
+            }
+            to{
+                transform: scale(1);
+                background-color: yellow;
+            }
+        }
+    </style>
+
+</head>
+<body>
+    <div class="animation"></div>
+
+</body>
+</html>
