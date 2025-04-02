@@ -3,19 +3,26 @@ body{
     justify-content: center;
     align-items: center;
 }
-.clown{
-    height: 450px;
-    animation: clown 2s infinite linear alternate;
+body img{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
 }
-@keyframes clown{
-    0%{
-        transform: scale(1.05) skew(5deg);
-    }
-    100%{
-        transform: scale(1) skew(-5deg);
-    }
+div img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.torso{
+    height: 250px;
+}
+.head{
+    animation: head 1s infinite linear alternate;
+    height: 200px;
 }
 .spiral{
+    margin-left: 200px;
     animation: spiral 10s infinite linear alternate;
 }
 @keyframes spiral{
@@ -24,5 +31,18 @@ body{
     }
     100%{
         transform: scale(1) rotate(0deg);
+    }
+}
+@keyframes head{
+    0%{
+        transform: translate(45px, 95px);
+        rotate: 2deg;
+    }
+    50%{
+        transform: translate(45px, 103px);
+    }
+    100%{
+        transform: translate(45px, 95px);
+        rotate: -2deg;
     }
 }
