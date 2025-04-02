@@ -1,20 +1,33 @@
 body{
     display: flex;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
 }
-.animation{
+img{
+    height: 300px;
+    margin-top: 300px;
+}
+.girl{
+    margin-left: 400px;
+}
+.boy{
+    margin-right: 400px;
+}
+.heart{
+    height: 20px;
     margin-top: 100px;
-    animation: animation 5s infinite linear alternate;
+    animation: heart 7s infinite linear alternate;
 }
-@keyframes animation{
+@keyframes heart{
     from{
-        transform: skew(5deg) translate(0, 0);
+        transform: translate(-420px, 50px);
     }
     50%{
-        transform: scale(0.5) translate(0, 0);
+        transform: scale(7);
     }
     to{
-        transform: skew(-5deg) translate(0, 0);
+        transform: translate(400px, 50px);
     }
 }
