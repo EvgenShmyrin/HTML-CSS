@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+img{
+    height: 30px;
+}
+body{
+    background: white;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+body>div{
+    height: 65%;
+    width: 30%;
+    border: 3px solid rgba(128, 128, 128, 0.33);
+    display: flex;
+    /*justify-content: center;*/
+    align-items: center;
+    flex-direction: column;
+}
+body>p{
+    height: 10%;
+    width: 30%;
+    border: 3px solid rgba(128, 128, 128, 0.33);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-family: "Cookie", cursive;
+    font-size: 100px;
+    margin: 100px auto 50px auto;
+    font-weight: 500;
+}
+.form{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form label{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 80%;
+    height: 120px;
+}
+.form input{
+    width: 80%;
+    height: 120px;
+}
+.form input:nth-child(2){
+    margin: 10px auto 20px auto;
+}
+.form input:nth-child(3){
+    border-radius: 15px;
+    background: #193b77;
+    color: white;
+}
+body>div>p{
+    margin: 20px 0 20px 0;
+    color: rgba(128, 128, 128, 0.92);
+}
+body div div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body>div>div>p>a{
+    margin-left: 20px;
+    color: #193b77;
+    font-size: 20px;
+}
+body>div>p>a:last-child{
+    margin-left: 20px;
+    color: #193b77;
+    font-size: 20px;
+}
+body>p{
+    font-size: 20px;
+    margin-top: 15px;
+}
+body>p>a{
+    color: #216df6;
+    font-weight: bold;
+}
