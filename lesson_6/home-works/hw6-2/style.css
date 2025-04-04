@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    height: 100vh ;
+    background: #266868;
+    /*font-family: "Raleway", sans-serif;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body>div {
+    height: 50%;
+    width: 35%;
+    background: #f8fbfb;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.wrapper1{
+    height: 30%;
+    width: 100%;
+    background: rgba(38, 104, 104, 0.11);
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.wrapper1 h3{
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+}
+.wrapper2{
+    height: 70%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.container1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 40px;
+}
+.container1 input{
+    width: 550px;
+    height: 40px;
+    font-size: 20px;
+    font-family: "Raleway", sans-serif;
+}
+.container1 input:first-child{
+    margin-bottom: 20px;
+}
+.container2{
+    display: flex;
+    justify-content: space-between;
+    font-weight: 100;
+    font-size: 25px;
+}
+.container2 label:first-child{
+    font-size: 25px;
+    margin-top: 30px;
+}
+.container2 input:first-child{
+    height: 20px;
+    width: 20px;
+}
+.container2>input:last-child{
+    height: 40px;
+    width: 120px;
+    font-size: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+    background: rgba(38, 104, 104, 0.12);
+}
