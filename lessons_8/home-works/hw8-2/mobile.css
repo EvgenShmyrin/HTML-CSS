@@ -1,0 +1,14 @@
+@media screen and (max-width: 375px) {
+    .section1{
+        width: 100%;
+        margin: 32px 16px 32px 16px;
+        flex-wrap: wrap;
+        gap: 32px;
+    }
+    .img{
+        width: 100%;
+    }
+    .img p{
+        width: 90%;
+    }
+}

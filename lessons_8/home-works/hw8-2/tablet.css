@@ -1,0 +1,14 @@
+@media screen and (min-width: 769px) and (max-width: 1279px) {
+    .section1{
+        width: 720px;
+        gap: 24px;
+        flex-wrap: wrap;
+
+    }
+    .img {
+        width: 348px;
+        margin-top: 40px;
+
+    }
+
+}
