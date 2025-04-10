@@ -1,0 +1,12 @@
+@media screen and (max-width: 375px) {
+    .section1{
+        width: 100%;
+        gap: 40px;
+        padding: 32px 16px;
+    }
+    .img{
+        width: 100%;
+    }
+
+    
+}
