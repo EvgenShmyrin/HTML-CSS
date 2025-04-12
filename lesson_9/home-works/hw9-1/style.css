@@ -4,6 +4,7 @@
 }
 .body{
     height: 100vh;
+    width: 100vw;
     display: grid;
     grid-template-rows: 22% 56% 22%;
 
